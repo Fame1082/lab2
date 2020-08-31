@@ -1,0 +1,36 @@
+form{border:1px solid blue;
+width: 250px;
+margin: 10% auto ; 
+text-align: center;
+border-radius: 30px;
+background-image:linear-gradient(to top ,	#4169E1,#FFFFFF );
+padding: 5px;
+}
+
+#ok{margin: 5px;
+background-image:linear-gradient(to top,#4169E1,#DCDCDC );
+width: 100px;
+height: 30px;
+border-radius: 5px ;
+}
+
+.link{margin:0px;
+	width: 32.7%;
+	height: 97%;
+background-image:linear-gradient(to top,#4169E1,#DCDCDC );
+}
+.link:hover{background-image:linear-gradient(to top,#DCDCDC,#4169E1 );}
+.menu{height: 40px;
+	width: 70%;
+	border:1px solid #00BFFF;
+	margin: 10px auto;
+border-radius: 5px ;
+background-image:linear-gradient(to top,#4169E1,#DCDCDC );
+
+}
+.exit{
+margin: 10px;
+background-image:linear-gradient(to top,#4169E1,#DCDCDC );
+}
+.exit:hover{background-image:linear-gradient(to top,#DCDCDC,#4169E1 );}
+#ok:hover{background-image:linear-gradient(to top,#DCDCDC,#4169E1 );}
